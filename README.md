@@ -1,6 +1,6 @@
-### Hi there, I'm Peter 👋
+### Hi there 👀, I'm Peter 👋
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=PeterStolz&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![My Github Stats](https://github-readme-stats.vercel.app/api?username=PeterStolz&hide=stars)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **PeterStolz/PeterStolz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
